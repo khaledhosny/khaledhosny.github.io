@@ -1,8 +1,4 @@
 ---
-excerpt: "When designing the OpenType layout of Amiri font I opted for a more complex
-  [http://www.khaledhosny.org/node/142 dot separation model], where dots are treated
-  as diacritical marks instead if being hard coded into base glyphs.\r\n\r\nThis paid
-  off by lowering the total number of final glyphs as well as less substitution rules."
 categories:
 - amiri
 - fonts
