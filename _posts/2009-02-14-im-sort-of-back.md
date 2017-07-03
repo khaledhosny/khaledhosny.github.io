@@ -1,11 +1,4 @@
 ---
-excerpt: "It has been long since last time I posted here, and there has been many
-  recent developments.\r\n\r\nI started a project to for digitisation of the standard
-  Arabic typeface developed and used by Al-Amiria printing in Cairo from around 20s
-  to 70s of the last century that was widely used in other governmental printing houses
-  as well. The project has been funded by <a href=\"http://tug.org/tc/devfund/grants.html\">TUG</a>,
-  see the <a href=\"http://code.google.com/p/amiri/\">google code page</a> of the
-  project for more details (and if you want to donate to the project ;).)\r\n\r"
 categories:
 - عني
 - typography

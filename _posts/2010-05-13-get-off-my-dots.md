@@ -1,6 +1,4 @@
 ---
-excerpt: "Arabic dots are ''diacritics'' and should be treated as diacritics, period.\r\n\r\nWarning,
-  a long and boring reading below.\r\n"
 categories:
 - fonts
 - arabeyes

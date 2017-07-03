@@ -1,9 +1,4 @@
 ---
-excerpt: "I've been interested in the history of Bulaq Press in general, and the typefaces
-  used there in particular, as I started working on my Bulaq revival [http://www.khaledhosny.org/node/140
-  font project].\r\n\r\nI found two very valuable books about the subject; ''[http://alkindi.ideo-cairo.org/controller.php?action=SearchNotice&noticeId=7294&lang=en
-  The History of Bulaq Press]'' a master's thesis by Abu-Alfutuh Radwan, and ''Bulaq
-  Press'' published by Bibliotheca Alexandrina."
 categories:
 - fonts
 - arabeyes

@@ -1,12 +1,4 @@
 ---
-excerpt: "I was trying to change the math font used in plain TeX (as opposed to LaTeX
-  or ConTeXt), but I didn't seem to find it documented any where, apparently it is
-  so obvious for TeXperts to be even documented. Anyway, I figured it out and I'm
-  documenting it here so I don't have to search it again.\r\n\r\nSet font families
-  0-3 to the new font, as follows:\r\n0: math text (\"sin\", \"cos\", numbers, etc.)\r\n1:
-  math italic (\"x\", \"y\", \"z\", etc. don't have to be italic at all e.g. Euler)\r\n2:
-  math symbols\r\n3: math extensions\r\n\\textfont: normal size font\r\n\\scriptfont:
-  font for sub/super script\r"
 categories:
 - tex
 - fonts

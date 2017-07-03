@@ -1,12 +1,4 @@
 ---
-excerpt: "Just released version 5.0 of [http://www.khaledhosny.org/node/172 KacstOne]
-  font, the new release features a new bold version of the font, it should also be
-  possible now to copy text from PDF files using KacstOne, also the problematic kern
-  feature have been removed as it was causing more problems (both Qt and OpenOffice
-  have bugs in handling of right to left kerning) and a simplistic font like KacstOne
-  can do without kerning at all (I had to fix the advance widths of certain glyphs
-  the needed kerning more). [https://sourceforge.net/projects/arabeyes/files/kacst_fonts/kacst_one_5.0.tar.bz2/download
-  Download it] from SourceForge.\r\n"
 categories:
 - fonts
 - arabic

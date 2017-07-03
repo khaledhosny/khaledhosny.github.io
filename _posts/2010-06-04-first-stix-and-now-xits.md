@@ -1,13 +1,4 @@
 ---
-excerpt: "Last Friday, the long awaited (more than 10 years now?)  [STIX fonts](http://en.wikipedia.org/wiki/STIX_Fonts_project)
-  were released. However, the release disappointed many people who want to typeset
-  mathematics with STIX fonts, as they neither released LaTeX support files nor supplemented
-  the fonts with the new OpenType MATH extension, ruling out any quality math typesetting
-  engine.\r\n\r\nTrying to make a joke of the continuous delay and missed milestones,
-  I promised to provide an OpenType enriched version of the fonts ''within a week
-  of its release, provided that I'm still alive and able to use computers'', of course
-  not believing they would ever release it. Now they proved me wrong and actually
-  released the fonts, so I'm pleased to announce the first beta release of XITS font.\r\n"
 categories:
 - xits
 - fonts

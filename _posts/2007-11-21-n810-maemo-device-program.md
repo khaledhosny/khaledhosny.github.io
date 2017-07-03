@@ -1,9 +1,4 @@
 ---
-excerpt: "<p>\r\n<cite>\r\nN810 maemo submission accepted\r\n<br><br>\r\nCongratulations!
-  You have been accepted to the N810 maemo device\r\nprogram. We will send your discount
-  and instructions as soon as the\r\ndevice is available in your selected shop (soon).\r\n<br><br>\r\nmaemo
-  team - http://maemo.org\r\n</cite>\r\n<br><br>\r\nI received this email from maemo
-  team a week ago or so, but I forgot to blog about it, more on this soon ;)\r\n</p>"
 categories:
 - لينكس
 - عربي

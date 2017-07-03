@@ -1,12 +1,4 @@
 ---
-excerpt: "I just uploaded the first release of Amiri, an alpha release.\r\n\r\n<pre>\r\n*
-  Only alphabetic characters:\r\n    * no vowel marks\r\n    * no punctuation\r\n
-  \   * no numbers\r\n* Only Arabic languages is supported:\r\n    * no support for
-  other Arabic script languages, though the underlying structure is all there\r\n
-  \   * no support for special Koranic marks\r\n* No proper spacing, there is some
-  primitive kerning that needs more work.\r\n* Dot positioning still needs more work\r\n*
-  Some combinations need more work\r\n</pre>\r\n\r\nWe now also have a [http://amiri.sourceforge.net
-  web site], which also acts as a showcase for the font.\r\n"
 categories:
 - fonts
 - arabeyes

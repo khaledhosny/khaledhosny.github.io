@@ -1,11 +1,4 @@
 ---
-excerpt: "It seems that [http://fribidi.org FriBidi] maintainer isn't going to release
-  next version of FriBidi (aka fribidi2) which implement Arabic shaping, though the
-  files are in it's CVS tree. So I made an ubuntu package for it if any one is interested
-  in it's shaping support.\r\n\r\nThe sources a .deb file are [http://khaled.djihed.com/ubuntu/fribidi/
-  here], I built this on Ubuntu 6.10 (aka Edgy Efft).\r\n\r\n'''WARNING''' use these
-  packages on your own risk. \r\nFribidi2 is an unreleased, untested BETA software.
-  \r\nAlso I'm not sure if the packages were made the correct way or not."
 categories:
 - حزم
 - أوبونتو

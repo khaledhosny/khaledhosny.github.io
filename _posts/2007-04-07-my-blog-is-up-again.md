@@ -1,6 +1,4 @@
 ---
-excerpt: "I managed to fix the installation and upgraded to drupal 5.1 finally!\r\n\r\nI'd
-  some trouble with drupal update, I think I'll post about it later."
 categories:
 - english
 - blog

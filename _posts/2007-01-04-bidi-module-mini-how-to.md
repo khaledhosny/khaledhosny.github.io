@@ -1,11 +1,4 @@
 ---
-excerpt: "BiDi module is a special drupal module that sets line direction automatically
-  according to its type so you can mix RTL and LTR texts freely without worrying about
-  the direction of the text.\r\n\r\nGet it from [http://cvs.drupal.org/viewcvs/drupal/contributions/sandbox/alaa/bidi.module
-  here], install it by coping it to \"modules\" directory under your drupal's root
-  directory.\r\n\r\nGo to administer -> modules and enable it, then administer ->
-  input formats, configure your desired formate and enable BiDi filter under Filters
-  section."
 categories:
 - كيف تعمل
 - english

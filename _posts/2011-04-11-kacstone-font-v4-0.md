@@ -1,7 +1,4 @@
 ---
-excerpt: KacstOne is a simplified Arabic font originally released by [http://www.kacst.edu.sa/en
-  KACST] under GPL and then re-packaged by Arabeyes and released as part of our [http://projects.arabeyes.org/project.php?proj=Khotot
-  Khotot] project.
 categories:
 - fonts
 - arabeyes

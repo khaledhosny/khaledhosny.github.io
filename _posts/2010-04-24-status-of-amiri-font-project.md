@@ -1,6 +1,4 @@
 ---
-excerpt: I've been quiet about my traditional, naskh-like Arabic font project for
-  a while, but it was slowly progressing.
 categories:
 - fonts
 - arabeyes

@@ -1,5 +1,4 @@
 ---
-excerpt: "'''Update''': I rewrote this post and changed its title from ''Pango vs."
 categories:
 - pango
 - fonts
