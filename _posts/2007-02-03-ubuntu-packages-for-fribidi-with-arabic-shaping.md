@@ -11,7 +11,7 @@ categories:
 - أوبونتو
 - english
 - arabeyes
-layout: story
+layout: post
 title: Ubuntu packages for FriBidi with Arabic shaping
 created: 1170499855
 ---

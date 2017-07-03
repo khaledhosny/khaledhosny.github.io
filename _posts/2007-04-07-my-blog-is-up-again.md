@@ -4,7 +4,7 @@ excerpt: "I managed to fix the installation and upgraded to drupal 5.1 finally!\
 categories:
 - english
 - blog
-layout: story
+layout: post
 title: My blog is up again
 created: 1175965189
 ---

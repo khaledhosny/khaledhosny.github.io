@@ -7,7 +7,7 @@ categories:
 - fonts
 - arabeyes
 - amiri
-layout: story
+layout: post
 title: Arabic, Arabic and Arabic
 created: 1278276475
 ---

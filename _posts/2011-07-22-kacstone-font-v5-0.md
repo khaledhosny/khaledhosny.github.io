@@ -11,7 +11,7 @@ categories:
 - fonts
 - arabic
 - arabeyes
-layout: story
+layout: post
 title: KacstOne font v5.0
 created: 1311362147
 ---

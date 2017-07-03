@@ -9,7 +9,7 @@ categories:
 - fonts
 - arabeyes
 - amiri
-layout: story
+layout: post
 title: It is no longer vapourware
 created: 1276292564
 ---

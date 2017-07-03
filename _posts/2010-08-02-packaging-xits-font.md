@@ -9,7 +9,7 @@ excerpt: Since the first public announce of the [http://www.khaledhosny.org/node
 categories:
 - xits
 - fonts
-layout: story
+layout: post
 title: Packaging XITS font
 created: 1280729211
 ---

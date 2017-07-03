@@ -9,7 +9,7 @@ excerpt: "BiDi module is a special drupal module that sets line direction automa
 categories:
 - كيف تعمل
 - english
-layout: story
+layout: post
 title: bidi module mini-how to
 created: 1167936937
 ---

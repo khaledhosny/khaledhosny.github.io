@@ -8,7 +8,7 @@ excerpt: "<p dir=ltr>\r\nI was trying to figure how to list fonts accessible to 
 categories:
 - pango
 - gtk
-layout: story
+layout: post
 title: Listing GTK accessible fonts
 created: 1206483992
 ---

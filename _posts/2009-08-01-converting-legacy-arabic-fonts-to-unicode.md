@@ -10,7 +10,7 @@ excerpt: "There are many legacy Arabic fonts floating on the web that can't be u
 categories:
 - fonts
 - arabeyes
-layout: story
+layout: post
 title: Converting legacy Arabic fonts to Unicode
 created: 1249133061
 ---

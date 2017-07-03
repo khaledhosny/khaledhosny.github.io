@@ -5,7 +5,7 @@ categories:
 - fonts
 - arabeyes
 - amiri
-layout: story
+layout: post
 title: Get off my dots!
 created: 1273701436
 ---

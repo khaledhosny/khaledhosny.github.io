@@ -6,7 +6,7 @@ excerpt: "Becouse of the  troubles that I've at home as a result of my computing
   but i can't resist my parants in thing like this which they consider as a critical
   decision.\r\n\r\nBye Bye computer, Bye Bye GNU/Linux, Bye Bye EGLUG.\r\n\r\n"
 categories: []
-layout: story
+layout: post
 title: I'll be offline for the comming 4 months
 created: 1137949210
 ---

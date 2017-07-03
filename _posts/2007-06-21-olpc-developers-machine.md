@@ -10,7 +10,7 @@ categories:
 - تطوير
 - olpc
 - english
-layout: story
+layout: post
 title: OLPC developer's  machine
 created: 1182391925
 ---

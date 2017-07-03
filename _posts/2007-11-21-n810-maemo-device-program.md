@@ -10,7 +10,7 @@ categories:
 - maemo
 - english
 - arabeyes
-layout: story
+layout: post
 title: N810 maemo device program
 created: 1195648620
 ---

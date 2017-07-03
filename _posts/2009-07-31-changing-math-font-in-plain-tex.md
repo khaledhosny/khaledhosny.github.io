@@ -13,7 +13,7 @@ categories:
 - arabeyes
 - math
 - typography
-layout: story
+layout: post
 title: Changing math font in plain TeX
 created: 1249057205
 ---

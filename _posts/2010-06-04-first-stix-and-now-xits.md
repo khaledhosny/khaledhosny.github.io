@@ -12,7 +12,7 @@ categories:
 - xits
 - fonts
 - arabeyes
-layout: story
+layout: post
 title: First STIX and now XITS
 created: 1275680300
 ---

@@ -6,7 +6,7 @@ excerpt: "When designing the OpenType layout of Amiri font I opted for a more co
 categories:
 - amiri
 - fonts
-layout: story
+layout: post
 title: Dynamic dots at work
 created: 1294081742
 ---

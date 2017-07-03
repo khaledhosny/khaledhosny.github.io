@@ -14,7 +14,7 @@ categories:
 - firefox
 - arabeyes
 - amiri
-layout: story
+layout: post
 title: I'm, sort of, back
 created: 1234637827
 ---

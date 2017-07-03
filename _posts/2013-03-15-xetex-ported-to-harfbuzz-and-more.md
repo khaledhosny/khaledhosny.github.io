@@ -57,7 +57,7 @@ excerpt: "[XeTeX](http://en.wikipedia.org/wiki/XeTeX) is an modern extension of 
 categories:
 - typography
 - fonts
-layout: story
+layout: post
 title: XeTeX ported to HarfBuzz (and more)
 created: 1363322121
 ---
