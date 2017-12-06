@@ -15,6 +15,6 @@ I don't want to give yet-another-overly-optimistic deadline, but I really expect
 
 And the mandatory screenshot :)
 
-[{{ site.url }}/assets/images/amiri-b3612f7.png]
+![]({{ site.url }}/assets/images/amiri-b3612f7.png)
 
 (sorry, still no font to download this time ;)
