@@ -28,10 +28,10 @@ and in cases like "سطر يحتوي نصّا عربيا أكثر من النص 
   * عنصر فرعي ثان
 
 1. عنصر 1
-  1. عنصر تحت 1
+    1. عنصر تحت 1
 2. عنصر 2
-  1. ابن عنصر 2
-  2. another subitem
-    1. حفيد عنصر 2
+    1. ابن عنصر 2
+    2. another subitem
+        1. حفيد عنصر 2
 
 **Typo:** this blog was titled "many how to", looks like I was sleeping when I typed it :P
