@@ -1,7 +1,4 @@
 ---
-categories:
-- كيف تعمل
-- english
 layout: post
 title: bidi module mini-how to
 created: 1167936937

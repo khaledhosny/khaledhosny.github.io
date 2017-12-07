@@ -1,10 +1,4 @@
 ---
-categories:
-- tex
-- fonts
-- arabeyes
-- math
-- typography
 layout: post
 title: Changing math font in plain TeX
 created: 1249057205

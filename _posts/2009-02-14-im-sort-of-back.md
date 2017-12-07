@@ -1,12 +1,4 @@
 ---
-categories:
-- عني
-- typography
-- gnome
-- fonts
-- firefox
-- arabeyes
-- amiri
 layout: post
 title: I'm, sort of, back
 created: 1234637827

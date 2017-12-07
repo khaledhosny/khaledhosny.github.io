@@ -1,10 +1,4 @@
 ---
-categories:
-- لينكس
-- عربي
-- maemo
-- english
-- arabeyes
 layout: post
 title: N810 maemo device program
 created: 1195648620

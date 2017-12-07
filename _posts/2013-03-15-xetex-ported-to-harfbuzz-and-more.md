@@ -1,7 +1,4 @@
 ---
-categories:
-- typography
-- fonts
 layout: post
 title: XeTeX ported to HarfBuzz (and more)
 created: 1363322121

@@ -1,8 +1,4 @@
 ---
-categories:
-- pango
-- fonts
-- arabeyes
 layout: post
 title: Smart fonts vs. dumb fonts
 created: 1201359017

@@ -1,8 +1,4 @@
 ---
-categories:
-- fonts
-- arabeyes
-- amiri
 layout: post
 title: A bit of history about Bulaq typefaces
 created: 1272456305

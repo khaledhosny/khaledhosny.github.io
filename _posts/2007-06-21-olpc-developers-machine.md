@@ -1,9 +1,4 @@
 ---
-categories:
-- تعريب
-- تطوير
-- olpc
-- english
 layout: post
 title: OLPC developer's  machine
 created: 1182391925

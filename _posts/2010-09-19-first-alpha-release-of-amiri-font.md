@@ -1,8 +1,4 @@
 ---
-categories:
-- fonts
-- arabeyes
-- amiri
 layout: post
 title: First (alpha) release of Amiri Font
 created: 1284853995

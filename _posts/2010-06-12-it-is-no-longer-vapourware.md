@@ -1,8 +1,4 @@
 ---
-categories:
-- fonts
-- arabeyes
-- amiri
 layout: post
 title: It is no longer vapourware
 created: 1276292564

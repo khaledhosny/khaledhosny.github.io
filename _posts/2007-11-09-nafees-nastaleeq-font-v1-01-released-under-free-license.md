@@ -1,9 +1,4 @@
 ---
-categories:
-- خطوط
-- fonts
-- arabic
-- arabeyes
 layout: post
 title: Nafees Nastaleeq font - v1.01 released under free license
 created: 1194610294

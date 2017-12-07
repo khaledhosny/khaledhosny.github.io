@@ -1,7 +1,4 @@
 ---
-categories:
-- english
-- blog
 layout: post
 title: My blog is up again
 created: 1175965189

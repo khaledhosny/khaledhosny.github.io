@@ -1,8 +1,4 @@
 ---
-categories:
-- fonts
-- arabeyes
-- amiri
 layout: post
 title: Status of Amiri font project
 created: 1272060185

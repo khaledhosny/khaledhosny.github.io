@@ -1,7 +1,4 @@
 ---
-categories:
-- xits
-- fonts
 layout: post
 title: Packaging XITS font
 created: 1280729211

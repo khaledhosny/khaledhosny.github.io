@@ -1,7 +1,4 @@
 ---
-categories:
-- pango
-- gtk
 layout: post
 title: Listing GTK accessible fonts
 created: 1206483992

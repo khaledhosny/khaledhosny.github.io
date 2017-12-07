@@ -1,8 +1,4 @@
 ---
-categories:
-- fonts
-- arabeyes
-- arabic
 layout: post
 title: KacstOne font v4.0
 created: 1302548518

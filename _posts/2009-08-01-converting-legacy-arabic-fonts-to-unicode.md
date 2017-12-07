@@ -1,7 +1,4 @@
 ---
-categories:
-- fonts
-- arabeyes
 layout: post
 title: Converting legacy Arabic fonts to Unicode
 created: 1249133061

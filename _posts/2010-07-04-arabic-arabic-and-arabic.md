@@ -1,8 +1,4 @@
 ---
-categories:
-- fonts
-- arabeyes
-- amiri
 layout: post
 title: Arabic, Arabic and Arabic
 created: 1278276475
