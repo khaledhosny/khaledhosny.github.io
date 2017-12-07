@@ -3,7 +3,7 @@ layout: post
 title: A bit of history about Bulaq typefaces
 created: 1272456305
 ---
-I've been interested in the history of Bulaq Press in general, and the typefaces used there in particular, as I started working on my Bulaq revival [font project](http://www.khaledhosny.org/node/140).
+I've been interested in the history of Bulaq Press in general, and the typefaces used there in particular, as I started working on my Bulaq revival [font project]({{ site.url }}/2010/04/24/status-of-amiri-font-project.html).
 
 I found two very valuable books about the subject; [*The History of Bulaq Press*](http://alkindi.ideo-cairo.org/controller.php?action=SearchNotice&noticeId=7294&lang=en) a master's thesis by Abu-Alfutuh Radwan, and *Bulaq Press* published by Bibliotheca Alexandrina. Neither is available to me right now, unfortunately, so I'm writing this out of my, notably sharp :P, memory.
 

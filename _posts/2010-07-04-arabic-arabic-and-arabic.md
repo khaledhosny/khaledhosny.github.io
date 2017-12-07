@@ -3,7 +3,7 @@ layout: post
 title: Arabic, Arabic and Arabic
 created: 1278276475
 ---
-Thanks to the [separation of dots and base glyphs](http://www.khaledhosny.org/node/142) approach, Amiri font can be easily extended to cover all additional characters required for other Arabic script using language. For example, here are all Arabic Wikipedia logos set in Amiri:
+Thanks to the [separation of dots and base glyphs]({{ site.url }}/2010/05/13/get-off-my-dots.html) approach, Amiri font can be easily extended to cover all additional characters required for other Arabic script using language. For example, here are all Arabic Wikipedia logos set in Amiri:
 
 ![]({{ site.url }}/assets/images/logos.view.png)
 <!--break-->
