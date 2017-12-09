@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Changing math font in plain TeX
-created: 1249057205
 ---
 I was trying to change the math font used in plain TeX (as opposed to LaTeX or ConTeXt), but I didn't seem to find it documented any where, apparently it is so obvious for TeXperts to be even documented. Anyway, I figured it out and I'm documenting it here so I don't have to search it again.
 

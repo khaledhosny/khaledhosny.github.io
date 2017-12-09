@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Get off my dots!
-created: 1273701436
 ---
 Arabic dots are *diacritics* and should be treated as diacritics, period.
 

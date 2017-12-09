@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First (alpha) release of Amiri Font
-created: 1284853995
 ---
 I just uploaded the first release of Amiri, an alpha release.
 

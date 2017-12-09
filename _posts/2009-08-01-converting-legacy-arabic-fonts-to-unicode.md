@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Converting legacy Arabic fonts to Unicode
-created: 1249133061
 ---
 There are many legacy Arabic fonts floating on the web that can't be used in free operating systems, those fonts predate Unicode and OpenType and can only be used in MS Windows. There seem not exist any documentation of any kind regarding those fonts, and I had to guess how it is supposed to work. Out of boredom (and because someone asked me if there is a way to use those fonts in GNU/Linux), I wrote a Python script using [FontForge's Python interface](http://fontforge.sourceforge.net/python.html) to convert them to Unicode with necessary OpenType layout to render them correctly.
 

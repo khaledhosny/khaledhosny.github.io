@@ -1,7 +1,6 @@
 ---
 layout: post
 title: bidi module mini-how to
-created: 1167936937
 ---
 BiDi module is a special drupal module that sets line direction automatically according to its type so you can mix RTL and LTR texts freely without worrying about the direction of the text.
 

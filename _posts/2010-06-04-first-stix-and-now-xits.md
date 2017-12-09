@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First STIX and now XITS
-created: 1275680300
 ---
 Last Friday, the long awaited (more than 10 years now?)  [STIX fonts](http://en.wikipedia.org/wiki/STIX_Fonts_project) were released. However, the release disappointed many people who want to typeset mathematics with STIX fonts, as they neither released LaTeX support files nor supplemented the fonts with the new OpenType MATH extension, ruling out any quality math typesetting engine.
 

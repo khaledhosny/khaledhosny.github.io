@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Smart fonts vs. dumb fonts
-created: 1201359017
 ---
 **Update**: I rewrote this post and changed its title from *Pango vs. FriBiDi*, as people misunderstood my point.
 

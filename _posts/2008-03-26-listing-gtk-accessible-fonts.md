@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Listing GTK accessible fonts
-created: 1206483992
 ---
 I was trying to figure how to list fonts accessible to GTK (or pango actually), it turned out that [`pango.Context`](http://www.pygtk.org/pygtk2reference/class-pangocontext.html#method-pangocontext--list-families) has a `list_families()` method that returns a tuple of [`pango.FontFamily`](http://www.pygtk.org/pygtk2reference/class-pangofontfamily.html) objects.
 

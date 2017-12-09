@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A bit of history about Bulaq typefaces
-created: 1272456305
 ---
 I've been interested in the history of Bulaq Press in general, and the typefaces used there in particular, as I started working on my Bulaq revival [font project]({{ site.url }}/2010/04/24/status-of-amiri-font-project.html).
 

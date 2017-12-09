@@ -1,7 +1,6 @@
 ---
 layout: post
 title: N810 maemo device program
-created: 1195648620
 ---
 
 > N810 maemo submission accepted

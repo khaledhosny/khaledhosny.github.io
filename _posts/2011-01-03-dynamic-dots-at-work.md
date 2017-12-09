@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dynamic dots at work
-created: 1294081742
 ---
 When designing the OpenType layout of Amiri font I opted for a more complex [dot separation model]({{ site.url }}/2010/05/13/get-off-my-dots.html), where dots are treated as diacritical marks instead if being hard coded into base glyphs.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: It is no longer vapourware
-created: 1276292564
 ---
 Getting out of my Amiri cave, just to tell you Amiri is there, it is real, it is no longer vapourware ;)
 

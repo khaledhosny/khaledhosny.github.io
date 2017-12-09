@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ubuntu packages for FriBidi with Arabic shaping
-created: 1170499855
 ---
 It seems that [FriBidi](http://fribidi.org) maintainer isn't going to release next version of FriBidi (aka fribidi2) which implement Arabic shaping, though the files are in it's CVS tree. So I made an ubuntu package for it if any one is interested in it's shaping support.
 

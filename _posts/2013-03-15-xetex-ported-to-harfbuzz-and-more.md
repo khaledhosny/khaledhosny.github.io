@@ -1,7 +1,6 @@
 ---
 layout: post
 title: XeTeX ported to HarfBuzz (and more)
-created: 1363322121
 ---
 [XeTeX](http://en.wikipedia.org/wiki/XeTeX) is an modern extension of TeX typesetting engine that supports Unicode, modern font technologies (OpenType and Graphite, plus AAT on Mac OS X) and many other goodies for multilingual and complex script typesetting.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: KacstOne font v4.0
-created: 1302548518
 ---
 KacstOne is a simplified Arabic font originally released by [KACST](http://www.kacst.edu.sa/en) under GPL and then re-packaged by Arabeyes and released as part of our [Khotot](http://projects.arabeyes.org/project.php?proj=Khotot) project. During my endless quest for a good libre Arabic font for use on screen (GUI mainly), I started working on KacstOne in late 2009 heavily cleaning it up and experimenting with an idea of optimising the outlines for a specific point size and screen resolution (namely 10pt as it the common font size for most UI and 100dpi which was chosen arbitrary and was a bad choice since it is not the default resolution of any UI). The experiment was successful in my opinion but I did not work on the font any further (basically I was not very fond of individual letter forms and decided to work on a new font from scratch using the new experience, but that never happened). The font is one weight, there is no bold nor slanted variants.
 

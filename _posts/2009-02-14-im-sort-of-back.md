@@ -1,7 +1,6 @@
 ---
 layout: post
 title: I'm, sort of, back
-created: 1234637827
 ---
 It has been long since last time I posted here, and there has been many recent developments.
 
