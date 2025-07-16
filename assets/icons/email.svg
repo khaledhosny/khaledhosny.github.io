@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" fill-rule="evenodd">
+  <path d="m8 72h56c4.4183 0 8-3.5817 8-8v-56c0-4.4183-3.5817-8-8-8h-56c-4.4183 8.1162e-16-8 3.5817-8 8v56c5.4108e-16 4.4183 3.5817 8 8 8z" fill="#000"/>
+  <text transform="translate(8 52)" fill="#ffffff" font-family="Fustat" font-weight="bold" font-size="64px">@</text>
+ </g>
+</svg>
