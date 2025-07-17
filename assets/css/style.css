@@ -10,6 +10,7 @@
   --links-shift: calc(
     (var(--links-width) + var(--links-padding) + var(--body-padding)) * -1
   );
+  --line-height: 1.5;
 }
 
 :lang(en) {
@@ -36,7 +37,7 @@ body {
 }
 
 p {
-  line-height: 1.5;
+  line-height: var(--line-height);
   text-align: justify;
   hyphens: auto;
   /* text-wrap: balance; */
@@ -98,6 +99,14 @@ a {
 }
 #links #email:after {
   background-image: url(/assets/icons/email.svg);
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  line-height: var(--line-height);
 }
 
 @media (max-width: 950px) {
