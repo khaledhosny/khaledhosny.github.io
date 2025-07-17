@@ -59,14 +59,7 @@ a {
   float: left;
   margin-left: var(--links-shift);
   width: var(--links-width);
-  line-height: 250%;
   position: fixed;
-}
-
-#links img {
-  width: var(--links-width);
-  height: auto;
-  filter: grayscale(100%);
 }
 
 #links a {
