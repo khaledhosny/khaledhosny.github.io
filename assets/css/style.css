@@ -56,17 +56,18 @@ a {
 }
 
 #links {
+  display: flex;
+  flex-direction: column;
   float: left;
+  position: fixed;
   margin-left: var(--links-shift);
   width: var(--links-width);
-  position: fixed;
+  gap: var(--links-padding);
 }
 
 #links a {
-  display: block;
   width: var(--links-width);
   height: var(--links-width);
-  padding-bottom: var(--links-padding);
 }
 
 #links a:after {
@@ -101,14 +102,12 @@ a {
 
 @media (max-width: 950px) {
   #links {
-    display: flex;
     flex-direction: row;
     justify-content: center;
-    gap: 1em;
+    float: initial;
     position: initial;
     margin-left: 0;
     width: 100%;
-    text-align: center;
   }
 }
 
