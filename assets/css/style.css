@@ -76,29 +76,30 @@ a {
   height: var(--links-width);
   position: absolute;
   content: "";
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 #links #github:after {
-  background-image: url(https://unpkg.com/simple-icons@v15/icons/github.svg);
+  background-image: url(/assets/icons/square-github-brands.svg);
 }
 #links #mastodon:after {
-  background-image: url(https://unpkg.com/simple-icons@v15/icons/mastodon.svg);
+  background-image: url(/assets/icons/mastodon-brands.svg);
 }
 #links #youtube:after {
-  background-image: url(https://unpkg.com/simple-icons@v15/icons/youtube.svg);
+  background-image: url(/assets/icons/square-youtube-brands.svg);
 }
 #links #facebook:after {
-  background-image: url(https://unpkg.com/simple-icons@v15/icons/facebook.svg);
+  background-image: url(/assets/icons/square-facebook-brands.svg);
 }
 #links #instagram:after {
-  background-image: url(https://unpkg.com/simple-icons@v15/icons/instagram.svg);
+  background-image: url(/assets/icons/instagram-brands.svg);
 }
 #links #linkedin:after {
-  background-image: url(/assets/icons/LinkedIn_icon.svg);
+  background-image: url(/assets/icons/linkedin-brands.svg);
 }
 #links #email:after {
-  background-image: url(/assets/icons/email.svg);
+  background-image: url(/assets/icons/square-envelope-solid.svg);
 }
 
 ul {
