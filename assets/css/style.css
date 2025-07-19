@@ -140,3 +140,23 @@ li {
     gap: 0.2em;
   }
 }
+
+@media print {
+  html {
+    background-color: initial;
+  }
+
+  #links {
+    flex-direction: row;
+    justify-content: center;
+    float: initial;
+    position: initial;
+    margin-left: 0;
+    width: 100%;
+    padding-bottom: var(--body-padding);
+  }
+
+  #links a {
+    print-color-adjust: exact;
+  }
+}
