@@ -110,7 +110,7 @@ li {
   line-height: var(--line-height);
 }
 
-@media (max-width: 950px) {
+@media screen and (max-width: 950px) {
   #links {
     flex-direction: row;
     justify-content: center;
@@ -122,13 +122,20 @@ li {
   }
 }
 
-@media (max-width: 400px) {
+@media screen and (max-width: 450px) {
+  h1,
+  h2 {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 400px) {
   :root {
     --body-padding: 1em;
   }
 }
 
-@media (max-width: 350px) {
+@media screen and (max-width: 350px) {
   #links {
     gap: 0.2em;
   }
