@@ -80,25 +80,25 @@ a {
   background-repeat: no-repeat;
 }
 
-#links #github:after {
+a[aria-label="GitHub"]:after {
   background-image: url(/assets/icons/square-github-brands.svg);
 }
-#links #mastodon:after {
+a[aria-label="Mastodon"]:after {
   background-image: url(/assets/icons/mastodon-brands.svg);
 }
-#links #youtube:after {
+a[aria-label="YouTube"]:after {
   background-image: url(/assets/icons/square-youtube-brands.svg);
 }
-#links #facebook:after {
+a[aria-label="Facebook"]:after {
   background-image: url(/assets/icons/square-facebook-brands.svg);
 }
-#links #instagram:after {
+a[aria-label="Instagram"]:after {
   background-image: url(/assets/icons/instagram-brands.svg);
 }
-#links #linkedin:after {
+a[aria-label="LinkedIn"]:after {
   background-image: url(/assets/icons/linkedin-brands.svg);
 }
-#links #email:after {
+a[aria-label="Email"]:after {
   background-image: url(/assets/icons/square-envelope-solid.svg);
 }
 
