@@ -36,7 +36,9 @@ body {
   background-color: white;
 }
 
-p {
+p,
+dd,
+li {
   line-height: var(--line-height);
   text-align: justify;
   hyphens: auto;
@@ -104,10 +106,6 @@ a[aria-label="Email"]:after {
 
 ul {
   padding: 0;
-}
-
-li {
-  line-height: var(--line-height);
 }
 
 @media screen and (max-width: 950px) {
