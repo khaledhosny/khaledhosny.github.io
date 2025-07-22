@@ -29,6 +29,11 @@ h1 {
   margin-top: 0;
 }
 
+h1,
+h2 {
+  color: rgb(0, 120, 120);
+}
+
 body {
   margin: var(--body-margin) auto;
   padding: var(--body-padding);
@@ -46,7 +51,7 @@ li {
 }
 
 a {
-  color: rgb(0, 159, 106);
+  color: rgb(0, 140, 140);
   text-decoration: none;
 }
 
