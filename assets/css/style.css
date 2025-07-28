@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400..700;1,400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Fustat:wght@600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fustat:wght@600&display=swap");
 
 :root {
   --body-width: 50em;
@@ -19,6 +19,7 @@
 
 :lang(ar) {
   font-family: "Fustat", serif;
+  font-weight: 600;
 }
 
 html {
