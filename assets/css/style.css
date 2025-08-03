@@ -11,6 +11,7 @@
     (var(--links-width) + var(--links-padding) + var(--body-padding)) * -1
   );
   --line-height: 1.5;
+  --nav-button-padding: 20px;
 }
 
 :lang(en) {
@@ -191,13 +192,20 @@ ul {
   text-align: center;
 }
 
+#prev-button,
+#next-button,
 #close-button {
   position: absolute;
-  top: 10px;
-  inset-inline-end: 25px;
+  background-color: transparent;
   color: white;
+  border: none;
   font-size: 35px;
   font-weight: bold;
+}
+
+#close-button {
+  top: var(--nav-button-padding);
+  inset-inline-end: var(--nav-button-padding);
   cursor: pointer;
   transition: color 0.3s ease;
 }
@@ -209,14 +217,8 @@ ul {
 
 #prev-button,
 #next-button {
-  position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: transparent;
-  color: white;
-  border: none;
-  font-size: 24px;
-  font-weight: bold;
   padding: 12px 16px;
   cursor: pointer;
   border-radius: 4px;
@@ -225,11 +227,11 @@ ul {
 }
 
 #prev-button {
-  inset-inline-start: 20px;
+  inset-inline-start: var(--nav-button-padding);
 }
 
 #next-button {
-  inset-inline-end: 20px;
+  inset-inline-end: var(--nav-button-padding);
 }
 
 #prev-button:hover,
