@@ -192,10 +192,10 @@ ul {
   text-align: center;
 }
 
-.close {
+#close-button {
   position: absolute;
   top: 10px;
-  right: 25px;
+  inset-inline-end: 25px;
   color: white;
   font-size: 35px;
   font-weight: bold;
@@ -203,9 +203,50 @@ ul {
   transition: color 0.3s ease;
 }
 
-.close:hover,
-.close:focus {
-  color: #ccc;
+#close-button:hover,
+#close-button:focus {
+  color: rgb(204, 204, 204);
+}
+
+#prev-button,
+#next-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 12px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  z-index: 1001;
+}
+
+#prev-button {
+  inset-inline-start: 20px;
+}
+
+#next-button {
+  inset-inline-end: 20px;
+}
+
+#prev-button:hover,
+#next-button:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+#prev-button:disabled,
+#next-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+#prev-button:disabled:hover,
+#next-button:disabled:hover {
+  background-color: transparent;
 }
 
 @media screen and (max-width: 600px) {
@@ -229,9 +270,23 @@ ul {
     padding: 10px;
   }
 
-  .close {
+  #close-button {
     font-size: 28px;
-    right: 15px;
+    inset-inline-end: 15px;
+  }
+
+  #prev-button,
+  #next-button {
+    font-size: 20px;
+    padding: 10px 12px;
+  }
+
+  #prev-button {
+    inset-inline-start: 10px;
+  }
+
+  #next-button {
+    inset-inline-end: 10px;
   }
 }
 
