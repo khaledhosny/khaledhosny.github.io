@@ -77,6 +77,11 @@ a {
 #links a {
   width: var(--links-width);
   height: var(--links-width);
+  transition: transform 0.3s ease;
+}
+
+#links a:hover {
+  transform: scale(1.2);
 }
 
 ul {
