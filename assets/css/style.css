@@ -215,7 +215,12 @@ ul {
   }
 
   #gallery img {
-    height: 120px;
+    transition: none;
+    border-radius: 8px;
+  }
+
+  #gallery img:hover {
+    transform: none;
     border-radius: 8px;
   }
 
@@ -236,6 +241,10 @@ ul {
   }
 
   #gallery img {
-    height: 200px;
+    transition: none;
+  }
+
+  #gallery img:hover {
+    transform: none;
   }
 }
