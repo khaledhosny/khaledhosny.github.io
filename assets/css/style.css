@@ -79,37 +79,6 @@ a {
   height: var(--links-width);
 }
 
-#links a:after {
-  width: var(--links-width);
-  height: var(--links-width);
-  position: absolute;
-  content: "";
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-
-a[aria-label="GitHub"]:after {
-  background-image: url(/assets/icons/square-github-brands.svg);
-}
-a[aria-label="Mastodon"]:after {
-  background-image: url(/assets/icons/mastodon-brands.svg);
-}
-a[aria-label="YouTube"]:after {
-  background-image: url(/assets/icons/square-youtube-brands.svg);
-}
-a[aria-label="Facebook"]:after {
-  background-image: url(/assets/icons/square-facebook-brands.svg);
-}
-a[aria-label="Instagram"]:after {
-  background-image: url(/assets/icons/instagram-brands.svg);
-}
-a[aria-label="LinkedIn"]:after {
-  background-image: url(/assets/icons/linkedin-brands.svg);
-}
-a[aria-label="Email"]:after {
-  background-image: url(/assets/icons/square-envelope-solid.svg);
-}
-
 ul {
   padding: 0;
 }
