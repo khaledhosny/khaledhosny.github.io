@@ -236,17 +236,6 @@
              Uses Raqq font." />
     </div>
 
-    <!-- Modal for full-size image display -->
-    <div id="image-modal" class="modal">
-      <div class="modal-content">
-        <span id="close-button" title="Close">&times;</span>
-        <button id="prev-button" title="Previous">&lt;</button>
-        <button id="next-button" title="Next">&gt;</button>
-        <img id="modal-image" src="" alt="" />
-        <div id="image-caption"></div>
-      </div>
-    </div>
-
     <h2>Publications</h2>
     <dl>
       <dt>2024</dt>
@@ -292,4 +281,15 @@
   <a rel="me" href="https://typo.social/@khaled" style="visibility: hidden">
     Mastodon
   </a>
+
+  <!-- Modal for full-size image display -->
+  <div id="modal" style="display: none">
+    <div id="modal-content">
+      <span id="close-button" title="Close">&times;</span>
+      <button id="prev-button" title="Previous">&lt;</button>
+      <button id="next-button" title="Next">&gt;</button>
+      <img id="modal-image" src="" alt="" />
+      <div id="image-caption"></div>
+    </div>
+  </div>
 </html>

@@ -159,8 +159,7 @@ ul {
   border-radius: 0;
 }
 
-.modal {
-  display: none;
+#modal {
   position: fixed;
   z-index: 1000;
   left: 0;
@@ -170,7 +169,7 @@ ul {
   background-color: rgba(0, 0, 0, 0.9);
 }
 
-.modal-content {
+#modal-content {
   position: relative;
   margin: auto;
   padding: 20px;
@@ -265,7 +264,7 @@ ul {
     border-radius: 8px;
   }
 
-  .modal-content {
+  #modal-content {
     max-width: 95%;
     padding: 10px;
   }
