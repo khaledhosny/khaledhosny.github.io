@@ -57,7 +57,7 @@ a {
 }
 
 #profile-image {
-  float: right;
+  float: inline-end;
   margin: 0.5em 0 1em 1em;
   width: 40%;
   border-radius: 50%;
@@ -67,9 +67,9 @@ a {
 #links {
   display: flex;
   flex-direction: column;
-  float: left;
+  float: inline-start;
   position: fixed;
-  margin-left: var(--links-shift);
+  margin-inline-start: var(--links-shift);
   width: var(--links-width);
   gap: var(--links-padding);
 }
@@ -120,7 +120,7 @@ ul {
     justify-content: center;
     float: initial;
     position: initial;
-    margin-left: 0;
+    margin-inline-start: 0;
     width: 100%;
     padding-bottom: var(--body-padding);
   }
@@ -155,7 +155,7 @@ ul {
     justify-content: center;
     float: initial;
     position: initial;
-    margin-left: 0;
+    margin-inline-start: 0;
     width: 100%;
     padding-bottom: var(--body-padding);
   }
