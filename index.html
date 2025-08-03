@@ -24,6 +24,7 @@
 
     <link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
     <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
+    <script src="/assets/js/gallery.js"></script>
   </head>
 
   <body>
@@ -212,6 +213,37 @@
       Finally, I’m not a very social person, and I’m usually shy when meeting
       new people. If you see me around, feel free to say hi!
     </p>
+
+    <h2>Art Work</h2>
+    <p>Some of my calligraphy art work.</p>
+    <div id="gallery">
+      <img
+        src="assets/artwork/al-ikhlas.jpg"
+        alt="Sura 112 (al-Ikhlas). Uses Raqq font,
+             mimics the layout of early Quran manuscripts." />
+      <img
+        src="assets/artwork/qad-nara.png"
+        alt="Start of Ayah 144, Sura 2 (Al-Baqarah).
+             The upper line is in Fatimid Kufic style,
+             while the lower line is in Mamluki Kufic style." />
+      <img
+        src="assets/artwork/ma-can.png"
+        alt="A poem by Ahmad Shawqi in Qayrawini Kufic style.
+             Uses an unreleased font." />
+      <img
+        src="assets/artwork/wuleda-al-huda.png"
+        alt="A poem by Ahmad Shawqi in praise of prophet Muhammad ﷺ.
+             Uses Raqq font." />
+    </div>
+
+    <!-- Modal for full-size image display -->
+    <div id="image-modal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <img id="modal-image" src="" alt="" />
+        <div id="image-caption"></div>
+      </div>
+    </div>
 
     <h2>Publications</h2>
     <dl>
