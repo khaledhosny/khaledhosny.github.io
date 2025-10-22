@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400..700;1,400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Fustat:wght@600&text=خالد حسني&display=swap");
+
+@font-face {
+  font-family: "Reem Kufi";
+  src: url(/assets/fonts/ReemKufi.subset.woff2);
+  font-feature-settings: "cv02" 1;
+}
 
 :root {
   --body-width: 50em;
@@ -19,8 +24,7 @@
 }
 
 :lang(ar) {
-  font-family: "Fustat", serif;
-  font-weight: 600;
+  font-family: "Reem Kufi", serif;
 }
 
 html {
